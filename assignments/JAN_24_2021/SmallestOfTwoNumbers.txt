@@ -1,0 +1,4 @@
+if(numberOne<numberTwo)
+    smallest = numberOne;
+else
+    smallest = numberTwo;
