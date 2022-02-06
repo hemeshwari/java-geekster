@@ -1,4 +1,4 @@
-package assignments.JAN_26_2021;
+package JAN_26_2021;
 
 import java.util.Scanner;
 

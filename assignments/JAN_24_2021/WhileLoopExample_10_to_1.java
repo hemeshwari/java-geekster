@@ -1,4 +1,4 @@
-package assignments.JAN_24_2021;
+package JAN_24_2021;
 
 public class WhileLoopExample_10_to_1 {
     public static void main(String[] args) {

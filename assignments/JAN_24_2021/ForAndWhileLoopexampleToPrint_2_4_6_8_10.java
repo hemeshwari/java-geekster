@@ -1,4 +1,4 @@
-package assignments.JAN_24_2021;
+package JAN_24_2021;
 
 public class ForAndWhileLoopexampleToPrint_2_4_6_8_10 {
     public static void main(String[] args) {
