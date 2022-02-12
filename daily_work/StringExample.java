@@ -1,4 +1,4 @@
-package daily_work;
+
 
 
 public class StringExample {

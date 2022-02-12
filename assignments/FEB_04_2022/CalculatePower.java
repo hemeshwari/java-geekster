@@ -90,7 +90,7 @@ public class CalculatePower {
          * 'A'.
          */
 
-        int Totalstd = 90;
+        
         int boys = 45;
         int girls = 90 - 45;
         int halfc = (boys + girls) / 2;

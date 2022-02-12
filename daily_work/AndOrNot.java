@@ -1,6 +1,4 @@
-package daily_work;
 import java.util.Scanner;
-
 
 public class AndOrNot {
     
