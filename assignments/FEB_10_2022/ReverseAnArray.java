@@ -1,6 +1,8 @@
+package FEB_10_2022;
+
 import java.util.Scanner;
 
-class ReverseAnArray {
+public class ReverseAnArray {
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
